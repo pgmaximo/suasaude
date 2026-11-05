@@ -9,6 +9,10 @@ caminho literal em dezenas de comentários no código-fonte).
 - `CONEXOES.md` — mapeamento de integrações/conexões do projeto.
 - `DADOS_MOCKADOS.md` — inventário de dados mockados (o que ainda não está
   ligado ao backend real).
+- `estrutura-de-pastas.md` — guia de convenções de cada pasta do app, com
+  exemplos (antes no README principal).
+- `interacoes-medicamentosas.md` — fonte e referências do dataset de
+  interações medicamentosas (antes no README principal).
 - `lgpd/conformidade-e-pendencias.md` — normas levantadas para os Termos de
   Uso e a Política de Privacidade (`src/data/termosEPrivacidade.ts`) e o que o
   aplicativo ainda não cumpre.
