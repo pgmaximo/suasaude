@@ -70,8 +70,8 @@ O processo foi guiado por especificação: cada tela tem `spec.md`, `plan.md` e 
 Pré-requisitos: [Node.js](https://nodejs.org/) LTS e o app **Expo Go** no celular (ou um emulador Android/iOS).
 
 ```bash
-git clone https://github.com/pgmaximo/trabalho_conclusao_curso.git
-cd trabalho_conclusao_curso
+git clone https://github.com/pgmaximo/suasaude.git
+cd suasaude
 npm install
 npx expo start
 ```

@@ -70,8 +70,8 @@ The work was spec-driven: each screen has a `spec.md`, `plan.md` and `tasks.md` 
 Requires [Node.js](https://nodejs.org/) LTS and the **Expo Go** app on a phone (or an Android/iOS emulator).
 
 ```bash
-git clone https://github.com/pgmaximo/trabalho_conclusao_curso.git
-cd trabalho_conclusao_curso
+git clone https://github.com/pgmaximo/suasaude.git
+cd suasaude
 npm install
 npx expo start
 ```
